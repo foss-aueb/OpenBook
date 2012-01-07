@@ -62,16 +62,6 @@ include::PartB-Mysql.asciidoc[]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 include::PartB-Scilab.asciidoc[]
 
-[[Octave]]
-Μαθηματικά Εργαλεία - Octave
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-TODO
-
-[[Source]]
-Compiling από Source
-~~~~~~~~~~~~~~~~~~~~
-TODO
-
 
 Μέρος Γ - Γλώσσες Προγραμματισμού
 ---------------------------------
@@ -111,11 +101,6 @@ Java
 ~~~~
 include::PartC-Java.asciidoc[]
 
-[[Pascal]]
-Pascal
-~~~~~
-include::PartC-Pascal.asciidoc[]
-
 [[PHP]]
 PHP
 ~~~
@@ -132,11 +117,3 @@ include::PartC-VHDL.asciidoc[]
 Τμήμα Πληροφορικής Ο.Π.Α.
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 include::PartD-Lessons-AUEB.asciidoc[]
-
-Ε.Μ.Π.
-~~~~~~
-TODO
-
-Ε.Κ.Π.Α.
-~~~~~~~~
-TODO
