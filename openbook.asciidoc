@@ -23,6 +23,9 @@ include::Intro-FreeSoftwareAndLinux.asciidoc[]
 ----------
 include::Intro-Communities.asciidoc[]
 
+Κοινότητα ΕΛ/ΛΑΚ Οικονομικού Πανεπιστημίου Αθηνών
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include::Intro-FossAueb.asciidoc[]
 
 Μέρος Α - Γενική Χρήση linux
 -----------------------------
