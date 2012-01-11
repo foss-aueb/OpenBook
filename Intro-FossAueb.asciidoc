@@ -19,7 +19,7 @@
 
  * http://foss.aueb.gr/viewtopic.php?f=11&t=83[Οδηγός σύνδεσης στο κανάλι IRC της κοινότητας]
  * http://foss.aueb.gr/viewtopic.php?f=37&t=187[Οδηγός χρήσης του mumble server της κοινότητας]
- * http://foss.aueb.gr/viewtopic.php?f=37&t=55[Οδηγός σύνδεσης στο vpn στης σχολής από Linux]
+ * http://foss.aueb.gr/viewtopic.php?f=37&t=55[Οδηγός σύνδεσης στο vpn της σχολής από Linux]
  * http://foss.aueb.gr/viewtopic.php?f=37&t=54[Οδηγός σύνδεσης στο ασύρματο δίκτυο της σχολής από Linux]
  * https://github.com/foss-aueb[Github account της κοινότητας]
  * http://foss.aueb.gr/rss/rss.php[RSS - Συνοπτικά τα νέα της κοινότητας]
