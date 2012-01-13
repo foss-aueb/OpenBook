@@ -5,3 +5,6 @@ Les Goldschlager και Andrew Lister, Prentice Hall) και συντάκτης 
 μηχανής γραμμένος σε Java.
 
 Το Lia διατίθεται υπό την άδεια MIT.
+
+Ομοίως, για τη μηχανή που παρουσιάζεται στο βιβλίο “Computer Science An Overview” του Glenn Brookshear
+μπορεί να χρησιμοποιηθεί η εφαρμογή https://github.com/cyberpython/BMach[BMach].
