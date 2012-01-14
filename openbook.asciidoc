@@ -34,7 +34,7 @@ include::Intro-FossAueb.asciidoc[]
 ~~~~~~~~
 include::PartA-Distributions.asciidoc[]
 
-Σουΐτα γραφείου
+Σουίτα γραφείου
 ~~~~~~~~~~~~~~~
 include::PartA-OfficeSuites.asciidoc[]
 
