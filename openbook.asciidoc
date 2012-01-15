@@ -2,7 +2,7 @@ OpenBook
 ========
 :Author:    Κοινότητες ΕΛ/ΛΑΚ: ΟΠΑ, ΕΜΠ, ΕΚΠΑ
 :Email:     faa@foss.aueb.gr
-:Date:      06-01-2012
+:Date:      15-01-2012
 :Revision:  Version 1
 :toc:
 
